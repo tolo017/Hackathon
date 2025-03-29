@@ -9,6 +9,6 @@
   ## Run Locally
   ``` bash
   git clone https://github.com/tolo017/Hackathon.git
-  cd AgriAlert
-  pip install pandas scikit-learn
+  cd Hackathon/AgriAlert-Demo
+  pip install -r requirements.txt
   python AgriAlert.py
